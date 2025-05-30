@@ -12,7 +12,7 @@ body {
   font-family: 'Avenir Next', sans-serif;
   background-color: var(--background-color);
   text-align: center;
-  color: #ffecf2;
+  color: #ffaec8;
 }
 header {
   height: 250px;
@@ -75,7 +75,7 @@ hr {
   width: 80%;
 }
 p {
-    color:#ffeff2;
+    color:#ffb5c3;
 }
 ul {
   list-style-type: none;
