@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Avenir+Next:wght@500&display=swap');
 
 :root {
-  --background-color: #daffa2;
+  --background-color: #e4ffbc;
   --price-color: #ff69b4;
-  --hr-color: #faafbb;
+  --hr-color: #ffb6c2;
 }
 
 body {
@@ -12,7 +12,7 @@ body {
   font-family: 'Avenir Next', sans-serif;
   background-color: var(--background-color);
   text-align: center;
-  color: #ffb8cd;
+  color: #ffecf2;
 }
 header {
   height: 250px;
