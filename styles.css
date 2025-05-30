@@ -78,5 +78,29 @@ p {
     color:#faafbb;
 }
 ul {
-    
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+  font-family: 'Avenir Next', sans-serif;
+}
+
+li a {
+  display: block;
+  padding: 8px;
+  font-family: 'Avenir Next', sans-serif;
+}
+a:link {
+color:pink;
+text-decoration:none;
+font-family: 'Avenir Next', sans-serif;
+}
+a:hover {
+color:salmon;
+text-decoration:none;
+font-family: 'Avenir Next', sans-serif;
 }
